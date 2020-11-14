@@ -1,10 +1,12 @@
 
 
 //将文件上传到已经关联的gitHub中
-1：git add 文件名
-2：git commit -m "备注"
-3：git push origin master
-b1daf1b27db9dab8b27a77217ceb5127622bfed2
+1：git clone https://github.com/zhou-X-boy/Git_study.git 
+2：cd Git_study
+2：git add 文件名  
+3：git commit -m "备注"
+4：git push origin master
+
 
 //将本地文件夹上传到还未关联的gitHub中
 1：git init
