@@ -8,12 +8,15 @@
 4：git push origin master
 
 
+
 //将本地文件夹上传到还未关联的gitHub中
 1：git init
 2：git add .
 3：git commit -m "备注"
 4：git remote add origin https://github.com/zhou-X-boy/Node_study.git
 5：git push -u origin master
+
+
 
 //更新项目后上传更新了的内容到gitHub中
 1：git commit          		 //显示修改过的文件
